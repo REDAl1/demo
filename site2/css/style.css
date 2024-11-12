@@ -1,0 +1,149 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #515151;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+input, textarea, select {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px;
+}
+
+.test {
+    height: 20rem;
+    background-color: red;
+}
+
+.welcome {
+    height: 20rem;
+    background-color: rgb(148, 148, 148);
+}
+
+.test1 {
+    height: 10rem;
+}
+
+
+.logo {
+    height: 6rem;
+    background-color: yellow;
+}
+
+
+.header-header {
+    background-color: red;
+    height: 10rem;
+}
+
+.main {
+    padding: 3rem 0 27rem;
+}
+
+.main-form {
+    margin-top: 20rem;
+    padding: 3rem 4rem;
+    background-color: #cfcfcf;
+    text-align: center;
+  }
+  .main-form-header {
+    margin-bottom: 5rem;
+    font-size: 1.8rem;
+  }
+  .main-form-header strong {
+    font-size: 1.9rem;
+  }
+  .main-form-input {
+    display: block;
+    width: 100%;
+    border: 1px solid #cfcfcf;
+    padding: 1.5rem;
+    margin: 2rem 0;
+  }
+  .main-form label {
+    padding: 0.5rem;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+            transform: translateX(-50%) translateY(-50%);
+    background-color: #cfcfcf;
+    font-size: 1.3rem;
+  }
+  .main-form-btn {
+    display: block;
+    height: 5rem;
+    width: 100%;
+    font-size: 1.6rem;
+    margin-bottom: 3rem;
+  }
+
+  .text-nick {
+    margin-top: 2rem;
+    display: ruby-text;
+    font-size: 3rem;
+}
+
+.messenge {
+    margin-top: 4rem;
+    height: 8rem;
+    background-color: rgb(148, 148, 148);
+    text-align: center;
+}
+
+.statement {
+    margin-top: 4rem;
+    height: 20rem;
+    background-color: rgb(148, 148, 148);
+}
+
+li {
+    font-size: 2.3rem;
+}
+
+ul {
+    margin-top: 1.5rem;
+}
+
+.statementadm {
+    margin-top: 4rem;
+    height: 50rem;
+    background-color: rgb(148, 148, 148);
+}
+
+
+.table {
+	width: 100%;
+    margin-top: 2rem;
+	margin-bottom: 123123px;
+	border: 2px solid #7e7e7e;
+	border-collapse: collapse; 
+    color: black;
+}
+.table th {
+	font-weight: bold;
+	padding: 5px;
+	background: #7e7e7e;
+	border: 2px solid #9e9e9e;
+}
+.table td {
+	border: 1px solid #9e9e9e;
+	padding: 5px;
+}
